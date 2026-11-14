@@ -1,0 +1,7 @@
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:targetApi="31"
+    android:accessibilityEventTypes="typeWindowStateChanged"
+    android:accessibilityFeedbackType="feedbackGeneric" android:notificationTimeout="0"
+    android:canRetrieveWindowContent="false" android:canPerformGestures="false"
+    android:isAccessibilityTool="false" android:description="@string/enhanced_description"
+    android:settingsActivity="local.cooldown.app.MainActivity" />

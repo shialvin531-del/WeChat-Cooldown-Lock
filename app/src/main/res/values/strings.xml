@@ -1,0 +1,5 @@
+<resources>
+    <string name="enhanced_description">经你主动开启后，只根据窗口所属应用包名和切换时间识别微信进出，减少 UsageStats 延迟造成的漏问候，并显示冷静保护页。不读取聊天、输入框、密码或通知，不截图，不代发消息，不注入微信。倒计时到期自动结束，系统桌面及其他应用可正常使用。可在系统设置关闭本服务。</string>
+    <string name="shortcut_short">一键冷静</string>
+    <string name="shortcut_long">立即启动冷静锁</string>
+</resources>

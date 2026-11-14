@@ -1,0 +1,6 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut android:shortcutId="quick_cooldown" android:enabled="true" android:icon="@drawable/ic_lock"
+        android:shortcutShortLabel="@string/shortcut_short" android:shortcutLongLabel="@string/shortcut_long">
+        <intent android:action="local.cooldown.QUICK_LOCK" android:targetPackage="local.wechat.cooldown" android:targetClass="local.cooldown.app.MainActivity" />
+    </shortcut>
+</shortcuts>
